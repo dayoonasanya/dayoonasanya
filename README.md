@@ -11,7 +11,7 @@
 
 - 💬 🎯 As I **immerse myself in the ever-evolving world of software development, I embrace the philosophy of continuous improvement. Curiosity knows no bounds, and the vast landscape of programming languages, frameworks, and tools beckons me to explore and expand my horizons.**
 
-- 📫 How to reach me **+1(609)647-6349, dayo.onasanya@icloud.com**
+- 📫 How to reach me **+1(609)647-6349**
 
 - ⚡ Fun fact **I am funny and always happy.**
 
