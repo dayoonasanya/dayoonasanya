@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Dayo</h1>
+<h1 align="center">Hi 👋, I am Dayo Onasanya</h1>
 <h3 align="center">🔍 Exploring the realms of code, curiosity is my compass, and innovation is my fuel! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dayoonasanya&label=Profile%20views&color=0e75b6&style=flat" alt="dayoonasanya" /> </p>
