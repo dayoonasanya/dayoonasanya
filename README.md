@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I am Dayo Onasanya</h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cloud+Developer+Expert;Full+Stack+Software+Engineer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
 <h3 align="center">🔍 Exploring the realms of code, curiosity is my compass, and innovation is my fuel! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dayoonasanya&label=Profile%20views&color=0e75b6&style=flat" alt="dayoonasanya" /> </p>
