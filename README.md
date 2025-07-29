@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cloud+Developer+Expert;Full+Stack+Software+Engineer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<h3 align="center">🔍 Exploring the realms of code, curiosity is my compass, and innovation is my fuel! 🚀</h3>
+<h3 align="center"> Exploring the realms of code, curiosity is my compass, and innovation is my fuel! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dayoonasanya&label=Profile%20views&color=0e75b6&style=flat" alt="dayoonasanya" /> </p>
 
@@ -12,13 +12,13 @@
 
 <p align="left"> <a href="https://twitter.com/dayo0629" target="blank"><img src="https://img.shields.io/twitter/follow/dayo0629?logo=twitter&style=for-the-badge" alt="dayo0629" /></a> </p>
 
-- 🌱 🌱 A passionate learner **on an unending quest for knowledge, I thrive on the thrill of tackling new challenges and pushing the boundaries of what's possible. From the first line of code to the final commit, each step in this journey brings me closer to understanding the intricacies of technology and its transformative power.**
+- A passionate learner **on an unending quest for knowledge, I thrive on the thrill of tackling new challenges and pushing the boundaries of what's possible. From the first line of code to the final commit, each step in this journey brings me closer to understanding the intricacies of technology and its transformative power.**
 
-- 💬 🎯 As I **immerse myself in the ever-evolving world of software development, I embrace the philosophy of continuous improvement. Curiosity knows no bounds, and the vast landscape of programming languages, frameworks, and tools beckons me to explore and expand my horizons.**
+- As I **immerse myself in the ever-evolving world of software development, I embrace the philosophy of continuous improvement. Curiosity knows no bounds, and the vast landscape of programming languages, frameworks, and tools beckons me to explore and expand my horizons.**
 
-- 📫 How to reach me **+1(609)647-6349**
+- How to reach me **+1(609)647-6349**
 
-- ⚡ Fun fact **I am funny and always happy.**
+- Fun fact **I am funny and always happy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
